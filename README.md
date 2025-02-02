@@ -11,7 +11,6 @@ This project aims to automate the testing of a web application using the Seleniu
   <li>Selenium WebDriver: Framework for automating web browsers.</li>
   <li>Gherkin: Specific language for defining test scenarios in BDD.</li>
   <li>Cucumber: Tool for executing tests written in Gherkin.</li>
-  <li>Page Object Model: Design pattern for organizing web page elements.</li>
 </ul>
 
 <h2>Project Structure</h2>
@@ -31,6 +30,7 @@ This project aims to automate the testing of a web application using the Seleniu
   <li>Build Tool: Maven</li>
   <li>IDE: IntelliJ IDEA or Eclipse.</li>
   <li>Drivers: Install the drivers corresponding to the browsers that will be used (Chrome, Firefox, etc.).</li>
+  <li>Page Object Model: Design pattern for organizing web page elements.</li>
 </ul>
 
 <h2>How to Run the Tests</h2>
